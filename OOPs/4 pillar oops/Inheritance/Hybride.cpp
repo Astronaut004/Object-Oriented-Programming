@@ -1,0 +1,8 @@
+/*
+
+
+
+
+                Use Combination of more than one inheritance
+
+*/
